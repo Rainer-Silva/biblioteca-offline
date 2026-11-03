@@ -9,6 +9,14 @@ manuais do Exército Brasileiro, livros acadêmicos, mapas do Brasil, textos rel
 Feito para ajudar as pessoas em tempos difíceis. **Gratuito**: não estou cobrando nada, só peço
 que me sigam no Instagram.
 
+## Manual de Sobrevivência Brasil (PDF gratuito)
+
+Quer começar sem precisar de HD? Baixe o **Manual de Sobrevivência Brasil**: 45 páginas para a
+família passar 72 horas sem ajuda em enchente, El Niño, apagão, crise e primeiros socorros.
+
+- [**Baixar o PDF**](https://github.com/brenobernardes25-afk/manual-de-sobrevivencia-brasil/releases/latest/download/Manual_de_Sobrevivencia_Brasil.pdf) (versão mais recente);
+- [página do manual](https://github.com/brenobernardes25-afk/manual-de-sobrevivencia-brasil), com índice e recomendações de uso.
+
 ## Como instalar
 
 Você precisa de:
