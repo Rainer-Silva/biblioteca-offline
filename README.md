@@ -67,3 +67,7 @@ Projeto pessoal, distribuído de graça. **Não é para venda.**
 
 **Breno Paiva**: se esta biblioteca te ajudou, me siga no Instagram:
 [@breno.paiva40](https://instagram.com/breno.paiva40).
+
+## macOS
+
+Versão para Mac / Mac version: veja [mac/README-MAC.md](mac/README-MAC.md).
